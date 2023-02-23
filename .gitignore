@@ -1,0 +1,15 @@
+.vscode/
+report*
+paper*
+datasets/
+
+fglt/build
+fglt/*~
+fglt/*.o
+fglt/*.mexmaci64
+fglt/*.mexa64
+fglt/docs/html/
+fglt/autom4te.cache/
+fglt/auto/
+fglt/README.html
+fglt/wordcount.lua
